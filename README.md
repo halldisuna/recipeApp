@@ -1,4 +1,4 @@
-# recipes
+# recipe
 
 A recipe and pantry app
 
